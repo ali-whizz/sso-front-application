@@ -10,3 +10,6 @@ React Application For SSO implementation.
 -> The application configured to run on 3001. you can change it according to your choice. 
      1) in package.json file Change the PORT value from 3001 to your desired
      2) change all redirect uri according to your port.
+
+-> To run the applicaiton
+     npm start
